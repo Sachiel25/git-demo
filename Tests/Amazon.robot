@@ -14,7 +14,7 @@ User must sign in to check out
     [Tags]  Smoke
 
 
-    Amazon2.Search for products
+    #Amazon2.Search for products
     #Amazon2.Select product from Search Results
     #Amazon2.Add product to Cart
     #Amazon2.Begin Checkout
