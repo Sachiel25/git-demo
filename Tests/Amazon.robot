@@ -20,7 +20,9 @@ User must sign in to check out
     #Amazon2.Begin Checkout
 
 
+Feature test 2
 
+    Amazon2.Search for products
 
 *** Keywords ***
 
